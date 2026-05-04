@@ -1,1 +1,1 @@
-This is a simple Neural Network to implement the Ising model for magnetism.
+This is a collection of ML codes, mainly from the "AI Models for Physics" course
